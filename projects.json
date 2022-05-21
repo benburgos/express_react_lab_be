@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Project 1 - Hidden Elixir",
+      "live": "https://benburgos.github.io/hidden-elixir/",
+      "git": "https://github.com/benburgos/hidden-elixir",
+      "image": "https://camo.githubusercontent.com/303ef0e9e25591f316f0df871e867dc9ad48ded8273fa447aa2344e2b9941692/68747470733a2f2f692e696d6775722e636f6d2f4f377876514d752e706e67"
+    },
+    {
+      "name": "Project 2 - Engage.Me",
+      "live": "https://bb-engage-me.herokuapp.com/",
+      "git": "https://github.com/benburgos/engage-me",
+      "image": "https://github.com/benburgos/engage-me/raw/master/public/assets/index.png"
+    }
+  ]
